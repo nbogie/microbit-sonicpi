@@ -1,6 +1,6 @@
 # microbit-sonicpi
 
-This is just a set of notes on a quick experiment to trigger [Sonic Pi](http://sonic-pi.net/) from a [micro:bit](http://microbit.org/) connected to the same machine via serial port and communicating via [OSC](http://opensoundcontrol.org/spec-1_0) over UDP.
+This is just a personal set of notes on a quick experiment to trigger [Sonic Pi](http://sonic-pi.net/) from a [micro:bit](http://microbit.org/) connected to the same machine via serial port and communicating via [OSC](http://opensoundcontrol.org/spec-1_0) over UDP.
 
 This uses David Whale's [bitio](https://github.com/whaleygeek/bitio) library and the python-osc library.
 
